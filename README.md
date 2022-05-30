@@ -5,4 +5,10 @@
   
 This is a modern examination system that is aimed to help reduce the time spent to calculate and create report cards in high schools.
   
+#
+  
+Made with :heart: from :kenya:
+&copy;2022
+  
+  
 </div>
