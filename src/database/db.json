@@ -1,0 +1,16 @@
+{
+  "classes": [
+    { 
+        "id": "1", 
+        "name": "Form 1", 
+        "stream": "East"
+    },
+    { "id": "2", "name": "Form 1", "stream": "West" },
+    { "id": "3", "name": "Form 2", "stream": "East" },
+    { "id": "4", "name": "Form 2", "stream": "West" },
+    { "id": "5", "name": "Form 3", "stream": "East" },
+    { "id": "6", "name": "Form 3", "stream": "West" },
+    { "id": "7", "name": "Form 4", "stream": "East" },
+    { "id": "8", "name": "Form 4", "stream": "West" }
+  ]
+}
